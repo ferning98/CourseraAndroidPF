@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android PF</string>
+    <string name="texto_bienvenida">Willkommen</string>
+    <string name="texto_entrar">Betreten</string>
+</resources>
